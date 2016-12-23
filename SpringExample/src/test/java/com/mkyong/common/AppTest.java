@@ -34,6 +34,6 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
-        assetTrue(1,2);
+        assetTrue(1==2);
     }
 }
